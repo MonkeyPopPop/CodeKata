@@ -1,0 +1,6 @@
+[
+  {
+    Name: foo,
+    SellIn: -1
+  }
+]
